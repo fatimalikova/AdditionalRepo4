@@ -1,0 +1,15 @@
+C:\Users\fmeli\OneDrive\Desktop\Additional4\Additional4\Additional4\bin\Debug\net8.0\Additional4.exe
+C:\Users\fmeli\OneDrive\Desktop\Additional4\Additional4\Additional4\bin\Debug\net8.0\Additional4.deps.json
+C:\Users\fmeli\OneDrive\Desktop\Additional4\Additional4\Additional4\bin\Debug\net8.0\Additional4.runtimeconfig.json
+C:\Users\fmeli\OneDrive\Desktop\Additional4\Additional4\Additional4\bin\Debug\net8.0\Additional4.dll
+C:\Users\fmeli\OneDrive\Desktop\Additional4\Additional4\Additional4\bin\Debug\net8.0\Additional4.pdb
+C:\Users\fmeli\OneDrive\Desktop\Additional4\Additional4\Additional4\obj\Debug\net8.0\Additional4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fmeli\OneDrive\Desktop\Additional4\Additional4\Additional4\obj\Debug\net8.0\Additional4.AssemblyInfoInputs.cache
+C:\Users\fmeli\OneDrive\Desktop\Additional4\Additional4\Additional4\obj\Debug\net8.0\Additional4.AssemblyInfo.cs
+C:\Users\fmeli\OneDrive\Desktop\Additional4\Additional4\Additional4\obj\Debug\net8.0\Additional4.csproj.CoreCompileInputs.cache
+C:\Users\fmeli\OneDrive\Desktop\Additional4\Additional4\Additional4\obj\Debug\net8.0\Additional4.sourcelink.json
+C:\Users\fmeli\OneDrive\Desktop\Additional4\Additional4\Additional4\obj\Debug\net8.0\Additional4.dll
+C:\Users\fmeli\OneDrive\Desktop\Additional4\Additional4\Additional4\obj\Debug\net8.0\refint\Additional4.dll
+C:\Users\fmeli\OneDrive\Desktop\Additional4\Additional4\Additional4\obj\Debug\net8.0\Additional4.pdb
+C:\Users\fmeli\OneDrive\Desktop\Additional4\Additional4\Additional4\obj\Debug\net8.0\Additional4.genruntimeconfig.cache
+C:\Users\fmeli\OneDrive\Desktop\Additional4\Additional4\Additional4\obj\Debug\net8.0\ref\Additional4.dll

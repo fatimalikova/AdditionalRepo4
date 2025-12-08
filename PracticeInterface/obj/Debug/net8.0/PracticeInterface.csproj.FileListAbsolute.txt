@@ -1,0 +1,15 @@
+C:\Users\fmeli\OneDrive\Desktop\Additional4\Additional4\PracticeInterface\bin\Debug\net8.0\PracticeInterface.exe
+C:\Users\fmeli\OneDrive\Desktop\Additional4\Additional4\PracticeInterface\bin\Debug\net8.0\PracticeInterface.deps.json
+C:\Users\fmeli\OneDrive\Desktop\Additional4\Additional4\PracticeInterface\bin\Debug\net8.0\PracticeInterface.runtimeconfig.json
+C:\Users\fmeli\OneDrive\Desktop\Additional4\Additional4\PracticeInterface\bin\Debug\net8.0\PracticeInterface.dll
+C:\Users\fmeli\OneDrive\Desktop\Additional4\Additional4\PracticeInterface\bin\Debug\net8.0\PracticeInterface.pdb
+C:\Users\fmeli\OneDrive\Desktop\Additional4\Additional4\PracticeInterface\obj\Debug\net8.0\PracticeInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fmeli\OneDrive\Desktop\Additional4\Additional4\PracticeInterface\obj\Debug\net8.0\PracticeInterface.AssemblyInfoInputs.cache
+C:\Users\fmeli\OneDrive\Desktop\Additional4\Additional4\PracticeInterface\obj\Debug\net8.0\PracticeInterface.AssemblyInfo.cs
+C:\Users\fmeli\OneDrive\Desktop\Additional4\Additional4\PracticeInterface\obj\Debug\net8.0\PracticeInterface.csproj.CoreCompileInputs.cache
+C:\Users\fmeli\OneDrive\Desktop\Additional4\Additional4\PracticeInterface\obj\Debug\net8.0\PracticeInterface.sourcelink.json
+C:\Users\fmeli\OneDrive\Desktop\Additional4\Additional4\PracticeInterface\obj\Debug\net8.0\PracticeInterface.dll
+C:\Users\fmeli\OneDrive\Desktop\Additional4\Additional4\PracticeInterface\obj\Debug\net8.0\refint\PracticeInterface.dll
+C:\Users\fmeli\OneDrive\Desktop\Additional4\Additional4\PracticeInterface\obj\Debug\net8.0\PracticeInterface.pdb
+C:\Users\fmeli\OneDrive\Desktop\Additional4\Additional4\PracticeInterface\obj\Debug\net8.0\PracticeInterface.genruntimeconfig.cache
+C:\Users\fmeli\OneDrive\Desktop\Additional4\Additional4\PracticeInterface\obj\Debug\net8.0\ref\PracticeInterface.dll
