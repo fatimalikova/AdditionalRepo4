@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fmeli\\OneDrive\\Desktop\\Additional4\\Additional4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB05222-22D2-4611-9E0C-21E284AE547F}|Additional4\\Additional4.csproj|c:\\users\\fmeli\\onedrive\\desktop\\additional4\\additional4\\additional4\\interface\\ihumanresourcemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB05222-22D2-4611-9E0C-21E284AE547F}|Additional4\\Additional4.csproj|solutionrelative:additional4\\interface\\ihumanresourcemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB05222-22D2-4611-9E0C-21E284AE547F}|Additional4\\Additional4.csproj|c:\\users\\fmeli\\onedrive\\desktop\\additional4\\additional4\\additional4\\class\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB05222-22D2-4611-9E0C-21E284AE547F}|Additional4\\Additional4.csproj|solutionrelative:additional4\\class\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB05222-22D2-4611-9E0C-21E284AE547F}|Additional4\\Additional4.csproj|c:\\users\\fmeli\\onedrive\\desktop\\additional4\\additional4\\additional4\\class\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB05222-22D2-4611-9E0C-21E284AE547F}|Additional4\\Additional4.csproj|solutionrelative:additional4\\class\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB05222-22D2-4611-9E0C-21E284AE547F}|Additional4\\Additional4.csproj|c:\\users\\fmeli\\onedrive\\desktop\\additional4\\additional4\\additional4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB05222-22D2-4611-9E0C-21E284AE547F}|Additional4\\Additional4.csproj|solutionrelative:additional4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IHumanResourceManager.cs",
+              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\Additional4\\Additional4\\Additional4\\Interface\\IHumanResourceManager.cs",
+              "RelativeDocumentMoniker": "Additional4\\Interface\\IHumanResourceManager.cs",
+              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\Additional4\\Additional4\\Additional4\\Interface\\IHumanResourceManager.cs",
+              "RelativeToolTip": "Additional4\\Interface\\IHumanResourceManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T18:21:24.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\Additional4\\Additional4\\Additional4\\Class\\Department.cs",
+              "RelativeDocumentMoniker": "Additional4\\Class\\Department.cs",
+              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\Additional4\\Additional4\\Additional4\\Class\\Department.cs",
+              "RelativeToolTip": "Additional4\\Class\\Department.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwv0oAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T18:03:49.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\Additional4\\Additional4\\Additional4\\Class\\Employee.cs",
+              "RelativeDocumentMoniker": "Additional4\\Class\\Employee.cs",
+              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\Additional4\\Additional4\\Additional4\\Class\\Employee.cs",
+              "RelativeToolTip": "Additional4\\Class\\Employee.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T17:54:00.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\Additional4\\Additional4\\Additional4\\Program.cs",
+              "RelativeDocumentMoniker": "Additional4\\Program.cs",
+              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\Additional4\\Additional4\\Additional4\\Program.cs",
+              "RelativeToolTip": "Additional4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T17:52:08.473Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
