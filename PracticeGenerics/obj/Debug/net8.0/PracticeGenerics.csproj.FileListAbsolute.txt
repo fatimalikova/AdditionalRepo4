@@ -13,3 +13,18 @@ C:\Users\fmeli\OneDrive\Desktop\Additional4\Additional4\PracticeGenerics\obj\Deb
 C:\Users\fmeli\OneDrive\Desktop\Additional4\Additional4\PracticeGenerics\obj\Debug\net8.0\PracticeGenerics.pdb
 C:\Users\fmeli\OneDrive\Desktop\Additional4\Additional4\PracticeGenerics\obj\Debug\net8.0\PracticeGenerics.genruntimeconfig.cache
 C:\Users\fmeli\OneDrive\Desktop\Additional4\Additional4\PracticeGenerics\obj\Debug\net8.0\ref\PracticeGenerics.dll
+C:\Users\fmeli\OneDrive\Desktop\Code Academy\Additional4\Additional4\PracticeGenerics\bin\Debug\net8.0\PracticeGenerics.exe
+C:\Users\fmeli\OneDrive\Desktop\Code Academy\Additional4\Additional4\PracticeGenerics\bin\Debug\net8.0\PracticeGenerics.deps.json
+C:\Users\fmeli\OneDrive\Desktop\Code Academy\Additional4\Additional4\PracticeGenerics\bin\Debug\net8.0\PracticeGenerics.runtimeconfig.json
+C:\Users\fmeli\OneDrive\Desktop\Code Academy\Additional4\Additional4\PracticeGenerics\bin\Debug\net8.0\PracticeGenerics.dll
+C:\Users\fmeli\OneDrive\Desktop\Code Academy\Additional4\Additional4\PracticeGenerics\bin\Debug\net8.0\PracticeGenerics.pdb
+C:\Users\fmeli\OneDrive\Desktop\Code Academy\Additional4\Additional4\PracticeGenerics\obj\Debug\net8.0\PracticeGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fmeli\OneDrive\Desktop\Code Academy\Additional4\Additional4\PracticeGenerics\obj\Debug\net8.0\PracticeGenerics.AssemblyInfoInputs.cache
+C:\Users\fmeli\OneDrive\Desktop\Code Academy\Additional4\Additional4\PracticeGenerics\obj\Debug\net8.0\PracticeGenerics.AssemblyInfo.cs
+C:\Users\fmeli\OneDrive\Desktop\Code Academy\Additional4\Additional4\PracticeGenerics\obj\Debug\net8.0\PracticeGenerics.csproj.CoreCompileInputs.cache
+C:\Users\fmeli\OneDrive\Desktop\Code Academy\Additional4\Additional4\PracticeGenerics\obj\Debug\net8.0\PracticeGenerics.sourcelink.json
+C:\Users\fmeli\OneDrive\Desktop\Code Academy\Additional4\Additional4\PracticeGenerics\obj\Debug\net8.0\PracticeGenerics.dll
+C:\Users\fmeli\OneDrive\Desktop\Code Academy\Additional4\Additional4\PracticeGenerics\obj\Debug\net8.0\refint\PracticeGenerics.dll
+C:\Users\fmeli\OneDrive\Desktop\Code Academy\Additional4\Additional4\PracticeGenerics\obj\Debug\net8.0\PracticeGenerics.pdb
+C:\Users\fmeli\OneDrive\Desktop\Code Academy\Additional4\Additional4\PracticeGenerics\obj\Debug\net8.0\PracticeGenerics.genruntimeconfig.cache
+C:\Users\fmeli\OneDrive\Desktop\Code Academy\Additional4\Additional4\PracticeGenerics\obj\Debug\net8.0\ref\PracticeGenerics.dll

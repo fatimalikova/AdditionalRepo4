@@ -9,13 +9,13 @@ namespace PracticeGenerics
         {
             Console.WriteLine("Hello, Generics!");
             #region Dictionary
-            //Dictionary < decimal, string> Dictionary = new Dictionary<decimal, string> ();
-            //Dictionary.Add(1.1m, "One Point One");  
-            //Dictionary.Add(2.2m, "Two Point Two");
-            //foreach (var item in Dictionary)
-            //{
-            //    Console.WriteLine(item);
-            //} 
+            Dictionary<decimal, string> Dictionary = new Dictionary<decimal, string>();
+            Dictionary.Add(1.1m, "One Point One");
+            Dictionary.Add(2.2m, "Two Point Two");
+            foreach (var item in Dictionary)
+            {
+                Console.WriteLine(item);
+            }
             #endregion
 
             #region SortedList
