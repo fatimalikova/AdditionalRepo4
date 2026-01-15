@@ -7,7 +7,7 @@ namespace PracticeGenerics
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, Generics!");
+            //Console.WriteLine("Hello, Generics!");
             #region Dictionary
             //Dictionary<decimal, string> Dictionary = new Dictionary<decimal, string>();
             //Dictionary.Add(1.1m, "One Point One");
