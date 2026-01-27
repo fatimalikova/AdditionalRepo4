@@ -13,5 +13,6 @@ namespace PracticeInterface.Interface
         void Speak();
         void Eat();
         void Move();
+        void Sleep();
     }
 }
