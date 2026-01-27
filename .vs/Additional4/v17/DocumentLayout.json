@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{6DAA779B-E21D-4361-93E6-983FB746BE79}|PracticeInterface\\PracticeInterface.csproj|solutionrelative:practiceinterface\\interface\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6DAA779B-E21D-4361-93E6-983FB746BE79}|PracticeInterface\\PracticeInterface.csproj|c:\\users\\fmeli\\onedrive\\desktop\\code academy\\additional4\\additional4\\practiceinterface\\class\\bear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DAA779B-E21D-4361-93E6-983FB746BE79}|PracticeInterface\\PracticeInterface.csproj|solutionrelative:practiceinterface\\class\\bear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F52F269B-1569-45F4-9D32-964341AB14DC}|PracticeGenerics\\PracticeGenerics.csproj|c:\\users\\fmeli\\onedrive\\desktop\\code academy\\additional4\\additional4\\practicegenerics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F52F269B-1569-45F4-9D32-964341AB14DC}|PracticeGenerics\\PracticeGenerics.csproj|solutionrelative:practicegenerics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -29,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6DAA779B-E21D-4361-93E6-983FB746BE79}|PracticeInterface\\PracticeInterface.csproj|c:\\users\\fmeli\\onedrive\\desktop\\code academy\\additional4\\additional4\\practiceinterface\\class\\lion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DAA779B-E21D-4361-93E6-983FB746BE79}|PracticeInterface\\PracticeInterface.csproj|solutionrelative:practiceinterface\\class\\lion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DAA779B-E21D-4361-93E6-983FB746BE79}|PracticeInterface\\PracticeInterface.csproj|c:\\users\\fmeli\\onedrive\\desktop\\code academy\\additional4\\additional4\\practiceinterface\\class\\bear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DAA779B-E21D-4361-93E6-983FB746BE79}|PracticeInterface\\PracticeInterface.csproj|solutionrelative:practiceinterface\\class\\bear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DDB05222-22D2-4611-9E0C-21E284AE547F}|Additional4\\Additional4.csproj|c:\\users\\fmeli\\onedrive\\desktop\\code academy\\additional4\\additional4\\additional4\\interface\\ihumanresourcemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,7 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\Code Academy\\Additional4\\Additional4\\PracticeGenerics\\Program.cs",
               "RelativeDocumentMoniker": "PracticeGenerics\\Program.cs",
@@ -70,8 +70,7 @@
               "RelativeToolTip": "PracticeGenerics\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T16:07:58.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-08T16:07:58.041Z"
             },
             {
               "$type": "Document",
@@ -81,14 +80,14 @@
               "RelativeDocumentMoniker": "PracticeInterface\\Interface\\IAnimal.cs",
               "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\Code Academy\\Additional4\\Additional4\\PracticeInterface\\Interface\\IAnimal.cs",
               "RelativeToolTip": "PracticeInterface\\Interface\\IAnimal.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-08T15:53:12.169Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Sloth.cs",
               "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\Code Academy\\Additional4\\Additional4\\PracticeInterface\\Class\\Sloth.cs",
               "RelativeDocumentMoniker": "PracticeInterface\\Class\\Sloth.cs",
@@ -100,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Lion.cs",
               "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\Code Academy\\Additional4\\Additional4\\PracticeInterface\\Class\\Lion.cs",
               "RelativeDocumentMoniker": "PracticeInterface\\Class\\Lion.cs",
@@ -112,19 +111,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Bear.cs",
               "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\Code Academy\\Additional4\\Additional4\\PracticeInterface\\Class\\Bear.cs",
               "RelativeDocumentMoniker": "PracticeInterface\\Class\\Bear.cs",
               "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\Code Academy\\Additional4\\Additional4\\PracticeInterface\\Class\\Bear.cs",
               "RelativeToolTip": "PracticeInterface\\Class\\Bear.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T15:52:24.353Z"
+              "WhenOpened": "2025-12-08T15:52:24.353Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\Code Academy\\Additional4\\Additional4\\PracticeInterface\\Program.cs",
               "RelativeDocumentMoniker": "PracticeInterface\\Program.cs",
@@ -172,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\Code Academy\\Additional4\\Additional4\\Additional4\\Program.cs",
               "RelativeDocumentMoniker": "Additional4\\Program.cs",
@@ -180,12 +180,11 @@
               "RelativeToolTip": "Additional4\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T17:52:08.473Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-07T17:52:08.473Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PracticeInterface.csproj",
               "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\Code Academy\\Additional4\\Additional4\\PracticeInterface\\PracticeInterface.csproj",
               "RelativeDocumentMoniker": "PracticeInterface\\PracticeInterface.csproj",
